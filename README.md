@@ -3,7 +3,13 @@ SAMPLE
 The sample is from the first wave of the National Epidemiologic Survey on Alcohol and
 Related Conditions (NESARC), the largest nationwide longitudinal survey of alcohol and
 drug use and associated psychiatric and medical comorbidities. Participants (N=43,093)
-represented the civilian, non-institutionalized adult population of the United States.
+represented the civilian, non-institutionalized adult population of the United States and
+included persons living in households, military personnel living off base, and persons
+residing in the following group quarters: boarding or rooming houses, non-transient hotels
+and motels, shelters, facilities for housing workers, college quarters, and group homes. The
+NESARC included over sampling of Blacks, Hispanics and young adults aged 18 to 24 years.
+The data analytic sample for this study included participants 18-25 years old who reported
+smoking at least 1 cigarette per day in the past 30 days (N=1,320).
 
 PROCEDURE
 Data were collected by trained U.S. Census Bureau Field Representatives during 2001–
